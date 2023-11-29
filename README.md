@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Caleb
 - 👀 I’m interested in web and android software design.
-- 🌱 I’m currently learning C++.
+- 🌱 I’m currently learning C#.
 - 💞️ I’m looking to collaborate on web development projects.
 - 📫 Reach me via linkedlin: https://www.linkedin.com/in/calebrn/
 <!---
